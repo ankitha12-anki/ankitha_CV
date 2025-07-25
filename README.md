@@ -5,4 +5,4 @@ No CSS,
 Deployed via Github Page, 
 Favicon Integrated.
 
-[Project Url](https://ankitha12-anki.github.io/ankitha_CV/)
+[project URL](https://ankitha12-anki.github.io/ankitha_CV/)
